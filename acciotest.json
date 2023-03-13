@@ -1,4 +1,4 @@
 {
-    "testRepo": "calendar-react-testcases",
-    "pathToFile": "__tests__/App.test.js"
+    "testRepo": "calendar-react-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
 }
